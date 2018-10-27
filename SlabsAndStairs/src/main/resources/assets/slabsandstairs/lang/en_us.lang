@@ -1,0 +1,9 @@
+tile.granite_stairs.name=Granite Stairs
+tile.granite_slab_half.name=Granite Slab
+tile.granite_slab_double.name=Granite Double Slab
+
+tile.polished_granite_stairs.name=Polished Granite Stairs
+tile.polished_granite_slab_half.name=Polished Granite Slab
+tile.polished_granite_slab_double.name=Polished Granite Double Slab
+
+itemGroup.slabstab=Slabs and Stairs
