@@ -1,8 +1,6 @@
 package com.gorakh.slabsandstairs.init;
 
 import com.gorakh.slabsandstairs.init.blocks.CustomBlockStairs;
-import com.gorakh.slabsandstairs.init.blocks.CustomIngotBlock;
-import com.gorakh.slabsandstairs.init.blocks.CustomOre;
 import com.gorakh.slabsandstairs.init.blocks.slab.granite.BlockGraniteDoubleSlab;
 import com.gorakh.slabsandstairs.init.blocks.slab.granite.BlockGraniteHalfSlab;
 import com.gorakh.slabsandstairs.init.blocks.slab.granite_polished.BlockGraniteSmoothDoubleSlab;
