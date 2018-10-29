@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom": { "model": "slabsandstairs:granite_slab_bottom" },
-        "half=top": { "model": "slabsandstairs:granite_slab_top" }
-    }
-}
